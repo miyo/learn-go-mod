@@ -10,8 +10,6 @@
 │   └── hello
 │       └── hello.go
 ├── go.mod
-├── goodmorning
-├── hello
 └── pkg
     └── howareyou
         ├── go.mod
